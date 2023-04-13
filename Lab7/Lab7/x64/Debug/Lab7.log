@@ -1,0 +1,7 @@
+﻿  Lab7.cpp
+C:\Users\Глеб\Desktop\языки\Lab7\Lab7\Lab7.cpp(84,102): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Глеб\Desktop\языки\Lab7\Lab7\Lab7.cpp(21): warning C4715: Struct1::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\Глеб\Desktop\языки\Lab7\Lab7\Lab7.cpp(34): warning C4715: compare<char>: значение возвращается не при всех путях выполнения
+C:\Users\Глеб\Desktop\языки\Lab7\Lab7\Lab7.cpp(34): warning C4715: compare<int>: значение возвращается не при всех путях выполнения
+C:\Users\Глеб\Desktop\языки\Lab7\Lab7\Lab7.cpp(34): warning C4715: compare<float>: значение возвращается не при всех путях выполнения
+  Lab7.vcxproj -> C:\Users\Глеб\Desktop\языки\Lab7\x64\Debug\Lab7.exe
